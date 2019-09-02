@@ -1,5 +1,5 @@
 # trietree
 
-trietree
+*trietree*
 
-*the trietree.h has a detailed description*
+the trietree.h has a detailed description
